@@ -1,7 +1,7 @@
-#define MAINPREFIX ~MAINPREFIX~
-#define PREFIX ~PREFIX~
+#define MAINPREFIX zrn
+#define PREFIX maps
 
-#define PREFIX_BEAUTIFIED ~PREFIX~
+#define PREFIX_BEAUTIFIED maps
 
 
 #include "script_version.hpp"

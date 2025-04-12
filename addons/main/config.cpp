@@ -30,5 +30,4 @@ class CfgPatches {
         weapons[] = {};
 
 	};
-
 };
